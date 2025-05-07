@@ -2,7 +2,6 @@
 - 👀 I’m interested in Gaming, Motorcycles, Cars, Technology
 - 🌱 I’m currently learning C# and UnrealEngine 5
 - 📫 How to reach me best: on our discord. Join via https://rehoga-interactive.com/discord
-- ⚡ Fun fact: ...
 
 <!---
 SichelBichel/SichelBichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
