@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SichelBichel
 - 👀 I’m interested in Gaming, Motorcycles, Cars, Technology
 - 🌱 I’m currently learning C# and UnrealEngine 5
-- 📫 How to reach me best on our discord. Join via https://rehoga-interactive.com/discord
+- 📫 How to reach me best: on our discord. Join via https://rehoga-interactive.com/discord
 - ⚡ Fun fact: ...
 
 <!---
